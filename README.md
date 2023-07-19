@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome to my Github profile! I'm Gabriela Rosario (She/Her)
+
+## Hi there! I'm a current undergraduate student at Stonehill College majoring in neuroscience. Some of my primary research interests include brain and behavior, health psychology, and public health. After completing my undergraduate education, I hope to pursue a graduate degree in either psychiatric epidemiology or clinical neuropsychology. With both fields, I expect to work with large sets of data and have taken inititave to learn skills in data analysis. I'm currently learning R Programming and you can check out some projects/assignments I have completed in my portfolio repository (https://github.com/grosario2003/Portfolio). One project that touched on the field of neuroscience was my "function tutorial" which explored a function that read brain volume from MGZ/MGH files. 
 
 <!--
 **grosario2003/grosario2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
